@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Learning how to use GitHub
+This repository should teach me how to use GitHub. Maybe I can even program something small in here?
